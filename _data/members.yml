@@ -1,0 +1,128 @@
+- name: R. Luke Wiseman
+  image: /static/img/members/lukefish2.jpg
+  pronouns: he/him/his
+  position: Principal Investigator
+  email: wiseman (at) scripps.edu
+  twitter: LabWiseman
+  scholar: jNdvF_QAAAAJ
+  orcid: 0000-0001-9287-6840
+  description: "**Education:**                                            \nB.Sc. in Chemistry, University of Virginia                                \nPh.D., Scripps Research                     \nPostdoc, NYU Med School
+
+
+  **Academic Positions:**                                                  \nProfessor, Scripps Research                                              \nMember, Skaggs Graduate School, Scripps Research
+
+
+  **Luke Facts:** (Written by our most recently published scientists)       \n*Favorite 'Derry Girls' character is Orla - JDR                          \n*Loves Tillamook cheese and the color orange - LI                      \n*Danced in multiple ballets - JMDG                                      \n*Has an impressive collection of polo shirts - ICN                                          \n*Strives to be a preeminent middle author structural biologist - MS"
+
+- name: Karen Hughes
+  image: /static/img/members/Karen4.jpg
+  pronouns: she/her/hers
+  position: Administrative Assistant
+  email: khughes (at) scripps.edu
+  description: "Karen Hughes has been a Lab Admin Coordinator with Scripps Research for over eight years.  Most of her responsibility is to support the lab by completing the administrative work on grant applications, order supplies and equipment when tasked and to provide any other necessary support to the lab.  Her background has been working in government and commercial settings providing support in the creation of grant submissions for over thirty years.  She also has a hazmat background providing support by maintaining a database used to classify hazardous products based on the specifications stated in the material safety data sheets (MSDS).  Karen brings her beloved 10 year old miniature dachshund office mate, Cooper, to work with her everyday and he makes sure that no one interrupts her work flow.  When Karen isn’t at work she is generally found out on a hiking trail or clogging with her fellow dance friends.
+
+
+  Make no mistake about it. Karen runs the show. Anything you need, she gets it done... provided you can get by Cooper."
+
+
+- name: Bibiana Rius, PhD
+  image: /static/img/members/Bibi2.jpg
+  pronouns: she/her/hers
+  position: Postdoctoral fellow
+  email: bibirius (at) scripps.edu
+  description: "Bibiana has been a postdoctoral fellow in the Wiseman Lab since 2017. Bibiana’s project focuses on defining how stress-independent activation of UPR-associated transcription factors influence the secretion and proteotoxicity of destabilized amyloidogenic immunoglobulin light chains (LCs) involved in the disease Light Chain Amyloidosis (AL). Bibiana is from Barcelona, Spain, and earned her Master’s Degree and PhD in biochemistry from the University of Barcelona. During her Ph.D, she studied the role pro-resolving mediators from omega-2 fatty acids in the context of obesity and fatty liver disease. At the end of her PhD, she was awarded a 4-month internship that she pursued in the Wiseman Lab at Scripps and decided she didn’t want to leave! Outside of the lab, she loves fitness, beach volleyball and San Diego sunsets. Also, she makes the best bread and Spanish tortilla.
+
+
+  Bibi is supported by a postdoctoral fellowship from the [Leukemia and Lymphoma Society](https://www.lls.org/)."
+
+- name: Dorian Rosen, PhD
+  image: /static/img/members/Dorianv3.jpg
+  position: Postdoctoral fellow
+  pronouns: they/them/their
+  email: drosen (at) scripps.edu
+  description: "Dorian Rosen completed their PhD in Pharmacology at the University of Virginia in 2019, studying the potential for repurposed drugs to modulate inflammatory diseases of the central nervous system and periphery. Dorian enjoys spying on the tiny, secret dramas of cells. They hope to better understand cellular functions in order to more effectively orchestrate their activity towards the benefit of human health.
+
+
+  Dorian is supported by a postdoctoral fellowship from the [American Heart Association](https://www.heart.org/)."
+
+- name: Belle Romine
+  image: /static/img/members/Belle2.jpg
+  pronouns: she/her/hers
+  position: Graduate Student
+  email: inoxon (at) scripps.edu
+  description: "Belle earned her Bachelor of Science degree from California Polytechnic State University, SLO, where she worked in the laboratory of Dr. Andres Martinez developing low-cost, point-of-care diagnostics devices.  She later did an internship with the Whitesides Lab at Harvard developing and fabricating 3-dimensional diagnostic devices to detect disease markers. Initially, as a Scripps graduate student, she worked with Wiseman lab postdoctoral fellow, Kai-Chun, to identify the functionality of the tetrameric structure of the extracellular chaperone, ERdj3. Belle is now studying the mechanisms by which cellular stress pathways impact protein folding and extracellular aggregation. She hopes her work will illuminate an area of research that drives new therapeutic approaches for devastating systemic amyloid diseases. When she is not spending her days and nights in the lab accompanied by her partner in science, Buddy the Dog, she enjoys volunteering at her church, painting, cooking, and playing board games.
+
+
+  Belle is supported by a predoctoral fellowship from the [AHA](https://www.heart.org/)."
+
+
+- name: Jessica Rosarda (and Elsie)
+  image: /static/img/members/JessicaElsie.jpeg
+  pronouns: she/her/hers
+  position: Graduate Student
+  email: jessros (at) scripps.edu
+  orcid: 0000-0002-2742-7413
+  description: "Jessica is a graduate student in the Wiseman lab studying the mechanisms by which pharmacologic modulators of ATF6 protect against ischemia / reperfusion injury. Her initial studies focused on neuroprotective mechanisms and she is currently looking at the role of ATF6 in inflammatory signaling. She earned a Bachelor of Science degree from Washington and Lee University, where she studied the population dynamics of Virginia sneezeweed as well as brook trout using genetic markers. She also holds a Master of Science degree in Pharmacy from the University of Florida, which she earned while identifying missing US service members as a forensic DNA analyst at the Armed Forces DNA Identification Laboratory. She later served as the Sequencing Project Coordinator at the National Institutes of Health Sequencing Center. In addition to her graduate studies at Scripps Research, she actively participates in outreach and philanthropy events and brings her dog Elsie to lab most days. Outside of the lab she enjoys boxing and gardening.
+
+
+  Jessica is supported by an ARCS foundation fellowship"
+
+- name: Jaleh Mesgarzadeh
+  image: /static/img/members/Jaleh.jpeg
+  position: Graduate Student
+  pronouns: she/her/hers
+  email: jmesgarz (at) scripps.edu
+  description: "Jaleh is a Scripps graduate student in the Wiseman lab studying how LECT2 amyloidosis affects the hepatic proteostasis environment. She is also responsible for performing the mass spectrometry experiments for the Wiseman Lab. Initially during her rotation, she worked with Bibiana Rius Ph.D. to study the mechanism of how pharmacologic activators of ATF6 reduce secretion of amyloidogenic light-chain in light-chain (AL) amyloidosis. She earned her bachelor’s degree in Human Biology from the University of California, San Diego. During her undergraduate studies she worked under Supriya Srinivasan Ph.D. at Scripps Research to help study the underlying neuronal mechanisms by which C. elegans regulate peripheral lipid metabolism. After graduating from UCSD, Jaleh joined the lab of Jeffery Kelly Ph.D. at Scripps Research to help define disease biomarkers for Transthyretin-related familial amyloid polyneuropathy patients from Portugal. Outside of lab, Jaleh enjoys rock climbing and playing video games."
+
+- name: Val Perea
+  image: /static/img/members/Val2.jpg
+  position: Graduate Student
+  pronouns: she/her/hers
+  email: vperea (at) scripps.edu
+  description: "Valerie earned a Bachelor of Science at the University of New Mexico where she researched modified cyclodextrins as combined chemotherapy and gene therapy delivery tools in the lab of Lina Cui. During her undergrad she was a SURF intern in the lab of Katja Lamia at TSRI and investigated circadian rhythm proteins and their role in regulating the degradation of proto-onco-proteins. After her undergrad she returned to Scripps and is a graduate student in the Wiseman lab studying the effects of PERK-dependent translational attenuation on mitochondrial biology. She hopes that her work will reveal the role of PERK regulation of mitochondria in disease pathology. Outside of the lab she enjoys playing piano, writing, and spending time with friends and family.
+
+
+  Val is supported by a predoctoral fellowship from [NSF](https://www.nsf.gov/)."
+
+- name: Albert Song
+  image: /static/img/members/Albert2.jpg
+  position: Graduate Student (with Gabe Lander)
+  pronouns: he/him/his
+  email: asong (at) scripps.edu
+  scholar: JaU-yhMAAAAJ
+  description: "Albert received his undergraduate degree from Northwestern University where he worked in the lab of Robert Lamb. Now, he is a joint graduate student in the labs of Luke Wiseman and Gabe Lander where he studies the structure and function of mitochondrial stress-responsive proteases."
+
+- name: Lara Ibrahim
+  image: /static/img/members/Lara2.jpg
+  pronouns: she/her/hers
+  position: Graduate Student (with Mike Bollong)
+  email: librahim (at) scripps.edu
+  description: "Lara is a graduate student in the Wiseman and Bollong labs studying how the Nrf transcription factors turn on cytoprotective programs. She is working on characterizing Nrf3 in particular, the least studied of the Nrf family, as well as exploring crosstalk between stress response pathways. Lara graduated from University of California, Davis with a bachelor’s degree in Pharmaceutical Chemistry and a minor in Neuroscience. Her research experiences in Davis involved studying the role of DNA topology in the mitochondria of the parasite T. brucei in the lab of Javier Arsuaga, and exploring the stability of mutants of the neural protein SynDIG4 in the lab of Elva Diaz. Beyond lab work, Lara also enjoys helping with outreach events and science education. Lara’s hobbies include many outdoor activities from hiking to snorkeling, baking, reading, and travelling."
+
+- name: Caroline Stanton
+  image: /static/img/members/Caroline2.jpg
+  pronouns: she/her/hers
+  position: Graduate Student (with Mike Bollong)
+  email: cstanton (at) scripps.edu
+  description: "Caroline is a graduate student in the Wiseman and Bollong labs working to identify novel inhibitors of the NLPR3 Inflammasome, a protein complex implicated in a number of diseases, through high-throughput screening. She is also investigating the relationship between fructolysis and the oxidative stress response with implications in treating liver disease. Caroline graduated from University of North Carolina at Chapel Hill with a bachelor’s degree in Chemistry and a second major Vocal Performance. During her undergraduate she worked in the lab of Leslie Hicks where she studied the TOR pathway in C. reinhardtii using mass spectrometry-based proteomics. She also participated in REUs at the University of Notre Dame and Vanderbilt University where she worked on a therapeutic monoclonal antibody trap in the Bruening Lab, and crystallized proteins from C. difficile in the Lacy Lab, respectively. Outside of lab, Caroline enjoys singing opera, reading, and going for walks on the beach."
+
+- name: Nicole Madrazo
+  image: /static/img/members/Nicole1.png
+  pronouns: she/her/hers
+  position: Graduate Student
+  email: nmadrazo (at) scripps.edu
+  description: "Nicole is a graduate student in the Wiseman lab. Using genomics, bioinformatics, and biochemistry, she is interested in finding novel targets of the ATF6 pathway, and probing the mechanism of action of IRE1 activator molecules. After graduating from UC Berkeley in 2019, she became a lab technician in Elçin Ünal’s lab. She studied how redox state affects S. cerevisiae lifespan, and assisted in the development of a cDNA screen to identify meiosis-specific genes with rejuvenative potential. During her free time, Nicole enjoys cooking, hiking, and dancing."
+
+- name: Kelsey Baron
+  image: /static/img/members/Kelsey.png
+  pronouns: she/her/hers
+  position: Graduate Student
+  email: kbaron (at) scripps.edu
+  description: "Kelsey is an MD/PhD student in the Wiseman lab interested in the role of IRE1 activation in modulating the proteolytic processing of amyloid precursor protein and the benefits of selective UPR activation on the development and progression of neurodegenerative disease. Kelsey earned her Bachelor of Science in Physiology & Neuroscience from UCSD, where she worked in the lab of Dr. Shauna Yuan. As an undergraduate, Kelsey helped to develop a human neuronal model of tauopathy using patient-derived induced pluripotent stem cells, which she used to study the consequences of tau aggregation on Alzheimer’s disease progression. She also worked at the Altman Clinical and Translational Research Institute coordinating clinical trials for numerous Alzheimer’s drug candidates. Prior to starting medical school, Kelsey again used patient iPSCs to study the relationship between PERK haplotypes and ER stress on the development of progressive supranuclear palsy. Outside of the lab, Kelsey enjoys cooking, kickboxing, tennis, her 2 cats, and tutoring for San Diego Refugee Tutoring."
+
+- name: Dan Fuentes
+  image: /static/img/members/Dan1.jpeg
+  pronouns: he/him/his
+  position: Graduate Student (with Danielle Grotjahn)
+  email: dfuentes (at) scripps.edu
+  description: "Dan earned his undergraduate degree in Biochemistry from California State University, Los Angeles. He completed his honors thesis in the Zurita-Lopez lab, studying histone tail post-translational modifications using biochemical techniques. He then went on to work as a research assistant in the Rodriguez lab at University of California, Los Angeles. There, he utilized structural and biochemical techniques to study broadly neutralizing antibodies against New World Hemorrhagic Fever Arena Viruses. Dan is now a joint PhD student in the Grotjahn and Wiseman Labs at Scripps Research Institute, where he uses cryo-electron tomography and biochemical approaches to investigate the molecular mechanisms that regulate mitochondrial morphology in response to cellular stress. Outside of research, Dan enjoys skating, photography, grubbing with the homies, and hanging out with his cat and doggo."

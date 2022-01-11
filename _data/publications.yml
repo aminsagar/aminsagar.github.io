@@ -1,0 +1,202 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+
+#Style Guide: Publications
+# citation - double quotes, to avoid breaking on names with apostrophes
+# all other sections - indent with 2 spaces, strings in single quotes
+
+#Names of lab members should be bolded using the following convention: **Surname FM**.
+#If there are multiple lab members in a row, include them in one set of double asterisk pairs.
+#Use &#42; to add an asterisk denoting co-first/corresponding author. Otherwise, bolding of names using **Surname FM** will break.
+#For readability of code, start a new line around 140 characters.
+#All images and PDFs should be named using the following convention: surname_YYYY
+
+#Leave PMID and PMCID blank until an ID is assigned.
+
+#Do not include additional subsections if they are not relevant
+#to a publication (PDB, data, Zenodo, etc).
+
+#Order of links: GitHub/Data/Server, Lab Websites (alphabetical order), Facility, Twitter, F1000, News Articles
+#Put article strings in single quotes since they are separated by a colon -- i.e. CNN: Article Name.
+
+#Example Publication
+# - <citation>: "Surname FM, **Fraser JS.** Title of article. *Submitted - Preprint on Biorxiv*. YYYY."
+#   date: 'YYYYMM'
+#   image: '/static/img/pub/surname_YYYY.png'
+#   pmid: '########'
+#   pmcid: 'PMC#######'
+#   biorxiv: 'YYYY.MM.DD.######'
+#   pdf: '/static/pdf/publications/surname_YYYY.pdf'
+#   pdbs:
+#     - PDB_ID
+#   paired_maps_and_models:
+#     - pdb: PDB_ID
+#       emdb: '#####'
+#   data:
+#     - '10.11577/1602169'
+#   zenodo:
+#     - code: '3555658'
+#       description: qPTxM code snapshot
+#   links:
+#     - name: Fujimori lab  @ UC San Francisco
+#       url: https://fujimorilab.ucsf.edu
+#     - name: Gonen lab @ UC Los Angeles
+#       url: https://cryoem.ucla.edu/
+#     - name: SACLA XFEL
+#       url: http://xfel.riken.jp/eng/
+#     - name: qPTxM code on GitHub
+#       url: https://github.com/fraser-lab/qptm
+#     - name: Celebratory Tweetstorm by first author First Surname
+#       url: https://twitter.com/LifeHasOrder/status/1172327493451145218
+#     - name: Celebratory Tweetstorm by corresponding author First Surname
+#       url: https://twitter.com/mctucsf/status/1172334750205218816
+---
+- citation: "**Sagar, A.**; Herranz-Trillo, F.; Langkilde, A. E.; Vestergaard, B.; Bernadó, P. Structure and Thermodynamics of Transient Protein-Protein Complexes by Chemometric Decomposition of SAXS Datasets. Structure 2021, 29 (9), 1074-1090.e4. https://doi.org/10.1016/j.str.2021.03.017. **Co-Corresponding Author**"
+  date: '2021'
+  image: '/static/img/pub/COSMiCS.png'
+  pmid: '33862013'
+
+
+- citation: "del Amo-Maestro, L.; **Sagar, A.**; Pompach, P.; Goulas, T.; Scavenius, C.; Ferrero, D. S.; Castrillo-Briceño, M.; Taulés, M.; Enghild, J. J.; Bernadó, P.; Gomis-Rüth, F. X. An Integrative Structural Biology Analysis of Von Willebrand Factor Binding and Processing by ADAMTS-13 in Solution. J. Mol. Biol. 2021. https://doi.org/10.1016/j.jmb.2021.166954."
+  date: '2021'
+  image: '/static/img/pub/ADAM-vWF.png'
+  pmid: '33771572'
+
+- citation: "**Sagar, A.**; Jeffries, C. M.; Petoukhov, M. V.; Svergun, D. I.; Bernadó, P. Comment on the Optimal Parameters to Derive Intrinsically Disordered Protein Conformational Ensembles from Small-Angle X-Ray Scattering Data Using the Ensemble Optimization Method. J. Chem. Theory Comput. 2021. https://doi.org/10.1021/acs.jctc.1c00014."
+  date: '2021'
+  image: '/static/img/pub/Comment.png'
+  pmid: '34561305'
+  links:
+    - name: Use Parameters from ATSAS Website
+      url: https://www.embl-hamburg.de/biosaxs/eom.html
+
+- citation: "Gonzalez-Foutel, N. S.; Borcherds, W. M.; Glavina, J.; Barrera-Vilarmau, S.; **Sagar, A.**; Estaña, A.; Barozet, A.; Fernandez-Ballester, G.; Blanes-Mira, C.; Sánchez, I. E.; de Prat-Gay, G.; Cortés, J.; Bernadó, P.; Pappu, R. V; Holehouse, A. S.; Daughdrill, G. W.; Chemes, L. B. Conformational Buffering Underlies Functional Selection in Intrinsically Disordered Protein Regions. bioRxiv 2021. https://doi.org/10.1101/2021.05.14.444182."
+  date: '2021'
+  image: '/static/img/pub/RB1.jpg'
+  pmid: 
+  biorxiv: '2021.05.14.444182'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2021.05.14.444182v1.full.pdf'
+  links:
+
+
+- citation: "Joshi, T.; Garg, S.; Estaña, A.; Cortés, J.; Bernadó, P.; Das, S.; Kammath, A. R.; **Sagar, A.**; Rakshit, S. Interdomain Linkers Tailor the Stability of Immunoglobulin Repeats in Polyproteins. Biochem. Biophys. Res. Commun. 2021. https://doi.org/10.1016/j.bbrc.2021.02.114. (Corresponding Author)"
+  date: '2021'
+  image: '/static/img/pub/I27.jpg'
+  pmid: '33684619'
+
+
+- citation: "Clerc, I.; **Sagar, A.**; Barducci, A.; Sibille, N.; Bernadó, P.; Cortés, J. The Diversity of Molecular Interactions Involving Intrinsically Disordered Proteins: A Molecular Modeling Perspective. Comput. Struct. Biotechnol. J. 2021. https://doi.org/10.1016/j.csbj.2021.06.031."
+  date: '2021'
+  image: '/static/img/pub/Disorder-review.jpg'
+  pmid: '34285781'
+
+
+- citation: "Garg, S.; **Sagar, A.**; Singaraju, G. S.; Dani, R.; Bari, N. K.; Naganathan, A. N.; Rakshit, S. Weakening of Interaction Networks with Aging in Tip-Link Protein Induces Hearing Loss. Biochem. J. 2021.https://doi.org/10.1042/BCJ20200799. (Co-First)"
+  date: '2021'
+  image: '/static/img/pub/ec1.png'
+  pmid: '33270084'
+
+
+- citation: "Kaur, N.; **Sagar, A.**; Sharma, P.; Ashish; Pati, P. K. Structural Insights into Rice SalTol QTL Located SALT Protein. Sci. Rep. 2020. https://doi.org/10.1038/s41598-020-73517-y. (Co-First)"
+  date: '2020'
+  image: '/static/img/pub/SLT.png'
+  pmid: '33024209'
+
+
+- citation: "Singaraju, G. S.; **Sagar, A.**; Kumar, A.; Samuel, J. S.; Hazra, J. P.; Sannigrahi, M. K.; Yennamalli, R. M.; Ashish, R. M.; Rakshit, S. Structural Basis of the Strong Cell-Cell Junction Formed by Cadherin-23. FEBS J. 2020. https://doi.org/10.1111/febs.15141."
+  date: '2020'
+  image: '/static/img/pub/cadherin-dimer.jpg'
+  pmid: '31729176'
+
+
+- citation: "**Sagar, A.**; Svergun, D.; Bernadó, P. Structural Analyses of Intrinsically Disordered Proteins by Small-Angle X-Ray Scattering. In Methods in Molecular Biology; 2020. https://doi.org/10.1007/978-1-0716-0524-0_12."
+  date: '2020'
+  image: '/static/img/pub/Chapter.png'
+  pmid: '32696361'
+
+
+- citation: "Kumar, V.; Peter, J. J.; **Sagar, A.**; Ray, A.; Jha, M. P.; Rebeaud, M. E.; Tiwari, S.; Goloubinoff, P.; Ashish; Mapa, K. Interdomain Communication Suppressing High Intrinsic ATPase Activity of Sse1 Is Essential for Its Co-Disaggregase Activity with Ssa1. FEBS J. 2020. https://doi.org/10.1111/febs.15045."
+  date: '2020'
+  image: '/static/img/pub/Mapa.png'
+  pmid: '31423733'
+
+
+- citation: "Vaid, B.; Chopra, B. S.; Raut, S.; **Sagar, A.**; Badmalia, M. D.; Ashish; Khatri, N. Antioxidant and Wound Healing Property of Gelsolin in 3T3-L1 Cells. Oxid. Med. Cell. Longev. 2020. https://doi.org/10.1155/2020/4045365."
+  date: '2020'
+  image: '/static/img/pub/Wound.jpg'
+  pmid: '32104532'
+
+
+- citation: "Hazra, J. P.; **Sagar, A.**; Arora, N.; Deb, D.; Kaur, S.; Rakshit, S. Broken Force Dispersal Network in Tip-Links by the Mutations at the Ca2+-Binding Residues Induces Hearing-Loss. Biochem. J. 2019. https://doi.org/10.1042/BCJ20190453."
+  date: '2019'
+  image: '/static/img/pub/cdh-pcdh.jpg'
+  pmid: '31399498'
+
+
+- citation: "Gupta, A. K.; Chopra, B. S.; Vaid, B.; **Sagar, A.**; Raut, S.; Badmalia, M. D.; Ashish; Khatri, N. Protective Effects of Gelsolin in Acute Pulmonary Thromboembolism and Thrombosis in the Carotid Artery of Mice. PLoS One 2019. https://doi.org/10.1371/journal.pone.0215717."
+  date: '2019'
+  image: '/static/img/pub/Thrombosis.png'
+  pmid: '31002695'
+
+
+- citation: "Hazra, J. P.; Arora, N.; **Sagar, A.**; Srinivasan, S.; Chaudhuri, A.; Rakshit, S. Force-Activated Catalytic Pathway Accelerates Bacterial Adhesion against Flow. Biochem. J. 2018. https://doi.org/10.1042/BCJ20180358."
+  date: '2018'
+  image: '/static/img/pub/Sortase.png'
+  pmid: '29967066'
+  pdf: '/static/pdf/publications/2020RomineBiochemJ.pdf'
+  links:
+
+- citation: "**Sagar, A.**; Arif, E.; Solanki, A. K.; Srivastava, P.; Janech, M. G.; Kim, S. H.; Lipschutz, J. H.; Kwon, S. H.; Ashish; Nihalani, D. Targeting Neph1 and ZO-1 Protein-Protein Interaction in Podocytes Prevents Podocyte Injury and Preserves Glomerular Filtration Function. Sci. Rep. 2017. https://doi.org/10.1038/s41598-017-12134-8."
+  date: '2017'
+  image: '/static/img/pub/NephZo.png'
+  pmid: '28935902'
+
+- citation: "**Sagar, A.**; Haleem, N.; Bashir, Y. M.; Ashish. Search for Non-Lactam Inhibitors of Mtb β-Lactamase Led to Its Open Shape in Apo State: New Concept for Antibiotic Design. Sci. Rep. 2017. https://doi.org/10.1038/s41598-017-06023-3."
+  date: '2017'
+  image: '/static/img/pub/Blac.png'
+  pmid: '28740144'
+
+
+- citation: "Gupta, A. K.; Parasar, D.; **Sagar, A.**; Choudhary, V.; Chopra, B. S.; Garg, R.; Ashish; Khatri, N. Analgesic and Anti-Inflammatory Properties of Gelsolin in Acetic Acid Induced Writhing, Tail Immersion and Carrageenan Induced Paw Edema in Mice. PLoS One 2015, 10 (8), e0135558. https://doi.org/10.1371/journal.pone.0135558. (**Co-Corresponding Author**)"
+  date: '2015'
+  image: '/static/img/pub/Analgesic.png'
+  pmid: '26426535'
+
+      
+- citation: "Rehan, M.; Sagar, A.; Sharma, V.; Mishra, S.; Ashish; Sahni, G. Penta-l-Lysine Potentiates Fibrin-Independent Activity of Human Tissue Plasminogen Activator. J. Phys. Chem. B 2015. https://doi.org/10.1021/acs.jpcb.5b07735"
+  date: '2015'
+  image: '/static/img/pub/tPA.png'
+  pmid: '26447340'
+   
+      
+- citation: "Rathore, Y. S.; Dhoke, R. R.; Badmalia, M.; **Sagar, A.**; Ashish. SAXS Data Based Global Shape Analysis of Trigger Factor (TF) Proteins from E. Coli, V. Cholerae, and P. Frigidicola: Resolving the Debate on the Nature of Monomeric and Dimeric Forms. J. Phys. Chem. B 2015. https://doi.org/10.1021/acs.jpcb.5b00759."
+  date: '2015'
+  image: '/static/img/pub/Trigger.png'
+  pmid: '25950744'
+
+      
+- citation: "Khatri, N.; **Sagar, A.**; Peddada, N.; Choudhary, V.; Chopra, B. S.; Garg, V.; Garg, R.; Ashish. Plasma Gelsolin Levels Decrease in Diabetic State and Increase upon Treatment with F-Actin Depolymerizing Versions of Gelsolin. J. Diabetes Res. 2014. https://doi.org/10.1155/2014/152075."
+  date: '2014'
+  image: '/static/img/pub/Diabetes.png'
+  pmid: '25478578'
+
+- citation: "Singh, S.; Pandey, K.; Rathore, Y. S.; **Sagar, A.**; Pattnaik, U. B. K.; Ashish, G. A Communication Network within the Cytoplasmic Domain of Toll-like Receptors Has Remained Conserved during Evolution. J. Biomol. Struct. Dyn. 2014. https://doi.org/10.1080/07391102.2013.787545."
+  date: '2014'
+  image: '/static/img/pub/TLR.png'
+  pmid: '23600666'
+
+      
+- citation: "Peddada, N.; **Sagar, A.**; Ashish; Garg, R. Plasma Gelsolin: A General Prognostic Marker of Health. Med. Hypotheses 2012, 78 (2), 203–210. https://doi.org/10.1016/j.mehy.2011.10.024."
+  date: '2019'
+  image: '/static/img/pub/Marker.png'
+  pmid: '22082609'
+
+- citation: "**Sagar, A.**; Peddada, N.; Solanki, A. k.; Choudhary, V.; Garg, R.; Ashish. Visualizing the Elusive Open Shape of G-Actin in Solution by SAXS Data Analysis. Biochem. Biophys. Res. Commun. 2013. https://doi.org/10.1016/j.bbrc.2013.05.055."
+  date: '2013'
+  image: '/static/img/pub/Actin.png'
+  pmid: '23707938'
+
+- citation: "Garg, R.; Peddada, N.; Sagar, A.; Nihalani, D.; Ashish. Visual Insight into How Low PH Alone Can Induce Actin-Severing Ability in Gelsolin under Calcium-Free Conditions. J. Biol. Chem. 2011. https://doi.org/10.1074/jbc.M111.236943."
+  date: '2013'
+  image: '/static/img/pub/pH.png'
+  pmid: '21498516'
+  

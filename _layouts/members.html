@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<div class="container px-2 max-width: 100%">
+   <img class="img-fluid" src="/static/img/members/WisemanLabBanner2019v2.png" title="The Group circa 2019">
+   <div class="row">
+       <div class="col-sm-9">
+           <br>
+           {{ content }}
+    </div>
+    <div class="col-sm-3 smalltxt">
+        <br>
+        {% capture sidebar %}{% include alumni_sidebar.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+    </div>
+</div>
+{% include footer.html %}
