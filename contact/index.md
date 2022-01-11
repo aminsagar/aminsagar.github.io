@@ -17,4 +17,4 @@ Center de Biologie Structurale  <br>
 29, Rue de Navacelles  <br>
 Montpellier, France <br>
 email: amin.sagar (at) cbs.cnrs.fr <br>
-tel: 04 67 41 77 05
+tel: +33 755397352
