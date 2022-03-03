@@ -50,6 +50,11 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Iruela, G.; Fernández, A.; **Sagar, A.**; Carvajal, F. J.; Bernadó, P; Pons, M. A FRET-Based Biosensor for the Src N-Terminal Regulatory Element. Biosensors 2022, 12 (2), 10.3390/bios12020096."
+  date: '2022'
+  image: '/static/img/pub/biosensors.png'
+  pmid: '35200356'
+  
 - citation: "**Sagar, A.**; Herranz-Trillo, F.; Langkilde, A. E.; Vestergaard, B.; Bernadó, P. Structure and Thermodynamics of Transient Protein-Protein Complexes by Chemometric Decomposition of SAXS Datasets. Structure 2021, 29 (9), 1074-1090.e4. https://doi.org/10.1016/j.str.2021.03.017. **Co-Corresponding Author**"
   date: '2021'
   image: '/static/img/pub/COSMiCS.png'
