@@ -50,6 +50,11 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Bertorelle, F.; Wegner, D.; Bakulić, M. P.; Fakhouri, H.; Comby-Zerbino, C.; Sagar, A.; Bernadó, P.; Resch-Genger, U.; Koutecky, V. B.; Guével, X. Le; Antoine, R.  Tailoring NIR-II Photoluminescence of Single Thiolated Au25 Nanoclusters by Selective Binding to Proteins. Chemistry – A European Journal 2022, 10.1002/chem.202201878."
+  date: '2022'
+  image: '/static/img/pub/European-cover-page.png'
+  pmid: '35703399'
+
 - citation: "Iruela, G.; Fernández, A.; **Sagar, A.**; Carvajal, F. J.; Bernadó, P; Pons, M. A FRET-Based Biosensor for the Src N-Terminal Regulatory Element. Biosensors 2022, 12 (2), 10.3390/bios12020096."
   date: '2022'
   image: '/static/img/pub/biosensors-12-00096-ag-550.png'
