@@ -15,10 +15,11 @@ group: research
 
 ## *What do I do?*
 
-I am a structural biologist with specialization in solution scattering and computational modelling. There are two main branches of my research. The first one involves studying challenging biomolecular complexes using solution scattering, computation and integrative modelling. The second deals with designing new methods and applications of solution scattering. 
+I am a Computational Chemist/Biologist with specialization in computational modeling using information from various biophysical/biochemical techniques. My core expertise lies in modelling, designing and optimizing biomolecular complexes using Molecular Dynamics and artificial intelligence based approaches.
+ 
 
 
-## *Current Research Interests*
+## *Postdoctoral Research*
 
 <b> Studying evolving biomolecular systems using solution scattering <b>
 
