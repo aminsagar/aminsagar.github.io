@@ -51,7 +51,10 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
 
-
+- citation: "Myriam Guillien, Assia Mouhand, Amin Sagar, Aurélie Fournet, Frédéric Allemand, Glaécia A. N. Pereira, Aurélien Thureau, Pau Bernadó, Jean-Louis Banères, Nathalie Sibille. Phosphorylation motif dictates GPCR C-terminal domain conformation and arrestin interaction. Structure 2023, 10.1016/j.str.2023.08.011."
+  date: '2023'
+  image: '/static/img/pub/RB1.jpg'
+  pmid: '37669668'
 
 
 - citation: "Bertorelle, F.; Wegner, D.; Bakulić, M. P.; Fakhouri, H.; Comby-Zerbino, C.; Sagar, A.; Bernadó, P.; Resch-Genger, U.; Koutecky, V. B.; Guével, X. Le; Antoine, R.  Conformational buffering underlies functional selection in intrinsically disordered protein regions. Nature structural & molecular biology 2022, 10.1038/s41594-022-00811-w."
