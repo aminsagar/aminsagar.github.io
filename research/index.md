@@ -15,7 +15,7 @@ group: research
 
 ## *What do I do?*
 
-I am a Computational Chemist/Biologist with specialization in computational modeling using information from various biophysical/biochemical techniques. My core expertise lies in modelling, designing and optimizing biomolecular complexes using Molecular Dynamics and artificial intelligence based approaches.
+I am a Computational Chemist/Biologist with specialization in computational modeling using information from various biophysical/biochemical techniques. My core expertise lies in modelling, designing and optimizing biomolecular complexes using Molecular Dynamics and Artificial Intelligence based approaches.
  
 
 
