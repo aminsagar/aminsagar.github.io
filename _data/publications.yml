@@ -50,6 +50,28 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+- citation: "Carlos A Elena-Real, Annika Urbanek, Xamuel L Lund, Anna Morató, Amin Sagar, Aurélie Fournet, Alejandro Estaña, Tracy Bellande, Frédéric Allemand, Juan Cortés, Nathalie Sibille, Ronald Melki, Pau Bernadó. Multi-site-specific isotopic labeling accelerates high-resolution structural investigations of pathogenic huntingtin exon-1. Structure, 10.1016/j.str.2023.04.003."
+  date: '2023'
+  image: '/static/img/pub/Site_specific_labelling.jpg'
+  pmid: '37119819'
+
+
+- citation: "Carlos A Elena-Real, Annika Urbanek, Xamuel L Lund, Anna Morató, Amin Sagar, Aurélie Fournet, Alejandro Estaña, Tracy Bellande, Frédéric Allemand, Juan Cortés, Nathalie Sibille, Ronald Melki, Pau Bernadó. Multi-site-specific isotopic labeling accelerates high-resolution structural investigations of pathogenic huntingtin exon-1. Structure, 10.1016/j.str.2023.04.003."
+  date: '2023'
+  image: '/static/img/pub/Site_specific_labelling.jpg'
+  pmid: '37119819'
+
+
+- citation: "Javier González-Delgado, Amin Sagar, Christophe Zanon, Kresten Lindorff-Larsen, Pau Bernadó, Pierre Neuvial, Juan Cortés. WASCO: A Wasserstein-based Statistical Tool to Compare Conformational Ensembles of Intrinsically Disordered Proteins. J Mol Biol 2023, 10.1016/j.jmb.2023.168053."
+  date: '2023'
+  image: '/static/img/pub/WASCO.jpg'
+  pmid: '36934808'
+  
+
+- citation: "Cheerneni S. Srinivas, Gayathri S. Singaraju, Veerpal Kaur, Sayan Das, Sanat K. Ghosh, Amin Sagar, Anuj Kumar, Tripta Bhatia & Sabyasachi Rakshit. Transient interactions drive the lateral clustering of cadherin-23 on membrane. Communications Biology 2023, https://doi.org/10.1038/s42003-023-04677-6."
+  date: '2023'
+  image: '/static/img/pub/Cadherin_phase_separation.jpg'
+  pmid: '36934176'
 
 - citation: "Myriam Guillien, Assia Mouhand, Amin Sagar, Aurélie Fournet, Frédéric Allemand, Glaécia A. N. Pereira, Aurélien Thureau, Pau Bernadó, Jean-Louis Banères, Nathalie Sibille. Phosphorylation motif dictates GPCR C-terminal domain conformation and arrestin interaction. Structure 2023, 10.1016/j.str.2023.08.011."
   date: '2023'
