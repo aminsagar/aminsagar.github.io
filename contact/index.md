@@ -13,8 +13,8 @@ group: contact
 
 <h4> Amin Sagar</h4>
 PhD  <br>
-Center de Biologie Structurale  <br>
-29, Rue de Navacelles  <br>
-Montpellier, France <br>
-email: amin.sagar (at) cbs.cnrs.fr <br>
-tel: +33 755397352
+Senior Computational Chemist <br>
+Bicycle Therapeutics  <br>
+Cambridge, UK  <br>
+email: aamin.sagar (at) gmail.com <br>
+tel: +44 7405465385
