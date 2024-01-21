@@ -68,6 +68,11 @@
   image: '/static/img/pub/Cadherin_phase_separation.jpg'
   pmid: '36934176'
 
+  - citation: "Carlos A Elena-Real, Amin Sagar, Annika Urbanek, Matija Popovic, Anna Morató, Alejandro Estaña, Aurélie Fournet, Christine Doucet, Xamuel L Lund, Zhen-Dan Shi, Luca Costa, Aurélien Thureau, Frédéric Allemand, Rolf E Swenson, Pierre-Emmanuel Milhiet, Ramon Crehuet, Alessandro Barducci, Juan Cortés, Davy Sinnaeve, Nathalie Sibille, Pau Bernadó. The structure of pathogenic huntingtin exon 1 defines the bases of its aggregation propensity. Nature Structure and Molecular Biology 2023, 10.1038/s41594-023-00920-0."
+  date: '2023'
+  image: '/static/img/pub/htt-H46.png'
+  pmid: '36864173'
+
 - citation: "Myriam Guillien, Assia Mouhand, Amin Sagar, Aurélie Fournet, Frédéric Allemand, Glaécia A. N. Pereira, Aurélien Thureau, Pau Bernadó, Jean-Louis Banères, Nathalie Sibille. Phosphorylation motif dictates GPCR C-terminal domain conformation and arrestin interaction. Structure 2023, 10.1016/j.str.2023.08.011."
   date: '2023'
   image: '/static/img/pub/Structure_GPCR.jpg'
