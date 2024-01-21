@@ -50,6 +50,17 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
+
+
+
+
+- citation: "Bertorelle, F.; Wegner, D.; Bakulić, M. P.; Fakhouri, H.; Comby-Zerbino, C.; Sagar, A.; Bernadó, P.; Resch-Genger, U.; Koutecky, V. B.; Guével, X. Le; Antoine, R.  Conformational buffering underlies functional selection in intrinsically disordered protein regions. Nature structural & molecular biology 2022, 10.1038/s41594-022-00811-w."
+  date: '2022'
+  image: '/static/img/pub/RB1.jpg'
+  pmid: '35948766'
+  biorxiv: '2021.05.14.444182'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2021.05.14.444182v1.full.pdf'
+
 - citation: "Bertorelle, F.; Wegner, D.; Bakulić, M. P.; Fakhouri, H.; Comby-Zerbino, C.; Sagar, A.; Bernadó, P.; Resch-Genger, U.; Koutecky, V. B.; Guével, X. Le; Antoine, R.  Tailoring NIR-II Photoluminescence of Single Thiolated Au25 Nanoclusters by Selective Binding to Proteins. Chemistry – A European Journal 2022, 10.1002/chem.202201878."
   date: '2022'
   image: '/static/img/pub/European-cover-page.jpg'
@@ -78,14 +89,6 @@
   links:
     - name: Use Parameters from ATSAS Website
       url: https://www.embl-hamburg.de/biosaxs/eom.html
-
-- citation: "Gonzalez-Foutel, N. S.; Borcherds, W. M.; Glavina, J.; Barrera-Vilarmau, S.; **Sagar, A.**; Estaña, A.; Barozet, A.; Fernandez-Ballester, G.; Blanes-Mira, C.; Sánchez, I. E.; de Prat-Gay, G.; Cortés, J.; Bernadó, P.; Pappu, R. V; Holehouse, A. S.; Daughdrill, G. W.; Chemes, L. B. Conformational Buffering Underlies Functional Selection in Intrinsically Disordered Protein Regions. bioRxiv 2021. https://doi.org/10.1101/2021.05.14.444182."
-  date: '2021'
-  image: '/static/img/pub/RB1.jpg'
-  pmid: 
-  biorxiv: '2021.05.14.444182'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2021.05.14.444182v1.full.pdf'
-  links:
 
 
 - citation: "Joshi, T.; Garg, S.; Estaña, A.; Cortés, J.; Bernadó, P.; Das, S.; Kammath, A. R.; **Sagar, A.**; Rakshit, S. Interdomain Linkers Tailor the Stability of Immunoglobulin Repeats in Polyproteins. Biochem. Biophys. Res. Commun. 2021. https://doi.org/10.1016/j.bbrc.2021.02.114. (Corresponding Author)"
